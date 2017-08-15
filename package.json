@@ -1,0 +1,22 @@
+{
+  "name": "petpet",
+  "version": "0.0.1",
+  "description": "pet website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorenzohee/petpet.git"
+  },
+  "keywords": [
+    "pet"
+  ],
+  "author": "Lorenzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lorenzohee/petpet/issues"
+  },
+  "homepage": "https://github.com/lorenzohee/petpet#readme"
+}
